@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nick Kaiser</title>
-    <link>https://github.com/nkai842/nkai.github.io.git/</link>
+    <link>https://nkai.github.io/</link>
     <description>Recent content on Nick Kaiser</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/nkai842/nkai.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://nkai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://github.com/nkai842/nkai.github.io.git/hobbies/</link>
+      <link>https://nkai.github.io/hobbies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/nkai842/nkai.github.io.git/hobbies/</guid>
+      <guid>https://nkai.github.io/hobbies/</guid>
       <description> Cycling and Running 🚲🏃‍♂️ Gardening with Mel Bartholomew&amp;rsquo;s SFG Reading 📚 Programming 💻 Investing 📈 Cooking 👨‍🍳 Guitar 🎸 Disc Golf 💿 Udemy Courses 👨‍🎓 Chess ♟  </description>
     </item>
     
