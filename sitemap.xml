@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nkai.github.io/</loc>
+    <loc>https://github.com/nkai842/nkai.github.io.git/</loc>
   </url><url>
-    <loc>https://nkai.github.io/hobbies/</loc>
+    <loc>https://github.com/nkai842/nkai.github.io.git/hobbies/</loc>
   </url><url>
-    <loc>https://nkai.github.io/categories/</loc>
+    <loc>https://github.com/nkai842/nkai.github.io.git/categories/</loc>
   </url><url>
-    <loc>https://nkai.github.io/tags/</loc>
+    <loc>https://github.com/nkai842/nkai.github.io.git/tags/</loc>
   </url>
 </urlset>
