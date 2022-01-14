@@ -9,6 +9,6 @@ var loadQuotes = async function() {
     return data.content
  }
 
-loadQuotes().then(res => quote.innerHTML = `🧾 ${res}🧾 `).catch(err => console.error(err));
+loadQuotes().then(res => quote.innerHTML = `🧾 ${res} 🧾`).catch(err => console.error(err));
 
 // console.log(nav.childNodes)
