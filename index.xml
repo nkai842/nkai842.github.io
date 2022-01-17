@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://nkai842.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>first post</title>
+      <link>https://nkai842.github.io/posts/firstpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nkai842.github.io/posts/firstpost/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
       <title>Hobbies</title>
       <link>https://nkai842.github.io/hobbies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
