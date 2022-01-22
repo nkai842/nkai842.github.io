@@ -4,7 +4,7 @@ var quote = document.querySelector('#quote')
 // var nav = document.querySelector('.nav')
 
 var loadQuotes = async function() {
-    var quote = await fetch(`https://api.quotable.io/random?maxLength=50/success`)
+    var quote = await fetch(`https://api.quotable.io/random?maxLength=25/success`)
     var data = await quote.json()
     return data.content
  }
