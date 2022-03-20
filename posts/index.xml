@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nick Kaiser</title>
-    <link>https://nkai842.github.io/</link>
-    <description>Recent content on Nick Kaiser</description>
+    <title>Posts on Nick Kaiser</title>
+    <link>https://nkai842.github.io/posts/</link>
+    <description>Recent content in Posts on Nick Kaiser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Feb 2022 14:00:42 +0000</lastBuildDate><atom:link href="https://nkai842.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Feb 2022 14:00:42 +0000</lastBuildDate><atom:link href="https://nkai842.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
       <link>https://nkai842.github.io/posts/secondpost/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://nkai842.github.io/posts/secondpost/</guid>
       <description>This is a test of creating posts on Hugo. I have my content organized with a posts directory and Hugo range function to list posts on my index page. I may add posts to my live site detailing tutorials and professional insights. For the time being I&amp;rsquo;d like to primarily focus on improving the HTML/CSS and look of the site before adding large content changes. I&amp;rsquo;m undecided on whether or not to add mobile support; I imagine most viewers of my website will be using a desktop/laptop.</description>
-    </item>
-    
-    <item>
-      <title>Hobbies</title>
-      <link>https://nkai842.github.io/hobbies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nkai842.github.io/hobbies/</guid>
-      <description> Cycling and Running 🚲🏃‍♂️ Gardening with Mel Bartholomew&amp;rsquo;s SFG Reading 📚 Programming 💻 Investing 📈 Cooking 👨‍🍳 Guitar 🎸 Disc Golf 💿 Udemy Courses 👨‍🎓 (most recently JavaScript ES6) Texas Hold &amp;lsquo;Em 🃏  </description>
     </item>
     
   </channel>

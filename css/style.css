@@ -1,14 +1,15 @@
 
 html {
-  height: 100%;
+  display: block;
 }
 
 body {
     color: #ffffff;
-    background: #1a1a1a;
+    background-color: #111;
+    margin: auto;
+    margin-top: 10px;
+    width: 89%;
     max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
     font-size: 18px;
     font-family: LiberationSerif;
 }
@@ -21,13 +22,13 @@ header, footer, p{
 .nav a{
     text-align: center;
     padding-right: .75em;
-    color: chocolate;
+    color: turquoise;
 }
 .nav a:hover{
   color:white;
 }
 a { 
-  color: chocolate;
+  color: turquoise;
 }
 h1 { 
   margin:0;
@@ -48,6 +49,7 @@ div {
 
 #quote {
   font-style: italic;
+  max-width: 500px;
 }
 
 .social-icons {
@@ -65,4 +67,32 @@ div {
 }
 .social-icons a:hover{
   color: white;
+}
+
+.blockquote {
+  position: relative;
+  margin: 5px 10px;
+  border: 1px solid turquoise;
+  box-sizing: border-box;
+  padding: 25px;
+}
+.blockquote--bordered {
+  border-left-width: 25px;
+}
+.blockquote--quoted::before{
+  content: "\201c";
+  font-size: 100px;
+  color:turquoise;
+  display: block;
+  margin-bottom: -40px;
+  margin-top: -20px;
+
+}
+
+.blockquote__text{ 
+ text-align: left;
+ font-size: 1.25em;
+ font-style: italic;
+ margin: 5;
+ line-height: 1.5;
 }
