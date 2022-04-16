@@ -71,13 +71,14 @@ div {
 
 .blockquote {
   position: relative;
-  margin: 5px 10px;
+  max-width: 750px;
+  margin: 10px 30px;
   border: 1px solid turquoise;
   box-sizing: border-box;
   padding: 25px;
 }
 .blockquote--bordered {
-  border-left-width: 25px;
+  border-left-width: 20px;
 }
 .blockquote--quoted::before{
   content: "\201c";
@@ -86,14 +87,13 @@ div {
   display: block;
   margin-bottom: -40px;
   margin-top: -20px;
-
 }
 
 .blockquote__text{ 
  text-align: left;
  font-size: 1.3em;
  font-style: italic;
- margin: 5;
+ margin: 0;
  line-height: 1.5;
 }
 .blockquote__text-credit{
